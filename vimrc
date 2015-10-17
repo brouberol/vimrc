@@ -16,7 +16,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " other plugins
-" Plugin 'Valloric/YouCompleteMe'
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'kien/ctrlp.vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
